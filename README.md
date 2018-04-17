@@ -1,4 +1,4 @@
-#Análise de dados da Câmara dos Deputados
+# Análise de dados da Câmara dos Deputados
 
 Leitura de dados abertos de parlamentares para análise de gastos e proposições de partidos.
 
@@ -32,6 +32,13 @@ Biblioteca para ler o arquivo de formato xlsx
 //instalação do metodo de escrita em arquivos xlsx
 
 >> sudo pip install XlsxWriter
+
+### Como executar
+
+Basta abrir no terminal 
+
+>> python analiseDados.py
+
 
 -----------------------------------
 ### OUTRAS OBSERVAÇÕES
